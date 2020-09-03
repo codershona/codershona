@@ -9,7 +9,7 @@ I'm a software engineer who is passionate about making open-source more accessib
 ## Find me around the web 🌎: 
 - Learning in public on <a href="#">Twitch</a> or <a href="#">My Dev</a> 📹 ✍🏾
 - Tinkering with interactions on <a href="#"> Codepen</a> 🏓
-- Sharing updates on <a href="#"/">LinkedIn</a> 💼
+- Sharing updates on <a href="#">LinkedIn</a> 💼
 
 Here are some ideas to get you started:
 

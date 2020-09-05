@@ -3,7 +3,7 @@
 
 
 <img src="https://github.com/codershona/codershona/blob/master/me%201%20.png" width="950" height="550" alt="banner that says developer girl - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
-I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL. 
+I'm a self taught Full Stack Developer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL. 
 
 
 ## Find me around the web 🌎: <img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>

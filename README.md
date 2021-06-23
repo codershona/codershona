@@ -32,7 +32,7 @@ I'm a self taught Full Stack Developer who is passionate about making open-sourc
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: [Instagram](https://www.instagram.com/goldcodetech/)💬
+- 📫 How to reach me: [Instagram](https://www.instagram.com/goldcodetech/) 💬
 - 😄 Pronouns: She/Hers 😄
 - ⚡ Fun fact: Coding, Learning new Tech things and Cooking Foods🌎
 

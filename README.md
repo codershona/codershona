@@ -7,7 +7,12 @@ I'm a self taught Full Stack Developer who is passionate about making open-sourc
 
 
 ## Find me around the web 🌎: <img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
-<!-- - Learning in public on <a href="#">Twitch</a> or <a href="#">My Dev</a> 📹 ✍🏾 -->
+- My freecodecamp profile <a href="https://www.freecodecamp.org/falgunislam"> FreeCodeCamp </a> 📹 ✍🏾
+- My Full Stack Legacy Certifications <a href="https://www.freecodecamp.org/certification/falgunislam/full-stack"> Full Stack Developer Certification </a> 📹 ✍🏾
+- My Front-End Legacy Certifications <a href="https://www.freecodecamp.org/certification/falgunislam/legacy-front-end"> Front-End Developer Certification </a> 📹 ✍🏾
+- My Back-End Legacy Certifications <a href="https://www.freecodecamp.org/certification/falgunislam/legacy-back-end"> Back-End Developer Certification </a> 📹 ✍🏾
+- My Data Visualization Legacy Certifications <a href="https://www.freecodecamp.org/certification/falgunislam/legacy-data-visualization"> Legacy Data Visualization Certification </a> 📹 ✍🏾
+- My Information Security and Quality Assurance Certifications <a href="https://www.freecodecamp.org/certification/falgunislam/information-security-and-quality-assurance"> Legacy Information Security and Quality Assurance Certification </a> 📹 ✍🏾
 - Tinkering with interactions on <a href="https://codepen.io/techertech"> Codepen</a> 🏓
 - Sharing updates on <a href="#"> LinkedIn </a> 💼
 - Connect with me on [Twitter](https://twitter.com/BRupanzel).

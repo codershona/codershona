@@ -7,9 +7,11 @@ I'm a self taught Full Stack Developer who is passionate about making open-sourc
 
 
 ## Find me around the web 🌎: <img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
-- Learning in public on <a href="#">Twitch</a> or <a href="#">My Dev</a> 📹 ✍🏾
+<!-- - Learning in public on <a href="#">Twitch</a> or <a href="#">My Dev</a> 📹 ✍🏾 -->
 - Tinkering with interactions on <a href="#"> Codepen</a> 🏓
-- Sharing updates on <a href="#">LinkedIn</a> 💼
+- Sharing updates on <a href="#"> LinkedIn </a> 💼
+- Connect with me on [Twitter](https://twitter.com/BRupanzel).
+- Read My Instagram Blogs in [Instagram](https://www.instagram.com/goldcodetech/).
 
 Here are some ideas to get you started:
 

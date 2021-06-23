@@ -21,11 +21,11 @@ I'm a self taught Full Stack Developer who is passionate about making open-sourc
 | Institute                 | Certification         |
 | ------------------------- | --------------------- |
 | FreeCodeCamp Profile      | [FreeCodeCamp](https://www.freecodecamp.org/falgunislam)  📹 ✍|
-| Full Stack Legacy Certifications | [Full Stack Developer Certification](https://www.freecodecamp.org/certification/falgunislam/full-stack)  📹 ✍|
-| Front-End Legacy Certifications  | [Front-End Developer Certification](https://www.freecodecamp.org/certification/falgunislam/legacy-front-end)  📹 ✍ |
-| Back-End Legacy Certifications   | [Back-End Developer Certification](https://www.freecodecamp.org/certification/falgunislam/legacy-back-end)  📹 ✍ |
-| Data Visualization Legacy Certifications | [Legacy Data Visualization Certification](https://www.freecodecamp.org/certification/falgunislam/legacy-data-visualization)  📹 ✍|
-| Information Security and Quality Assurance Certifications | [Legacy Information Security and Quality Assurance Certification](https://www.freecodecamp.org/certification/falgunislam/information-security-and-quality-assuranc)  📹 ✍ |
+| Full Stack Legacy Certifications(FreeCodeCamp) | [Full Stack Developer Certification](https://www.freecodecamp.org/certification/falgunislam/full-stack)  📹 ✍|
+| Front-End Legacy Certifications(FreeCodeCamp)  | [Front-End Developer Certification](https://www.freecodecamp.org/certification/falgunislam/legacy-front-end)  📹 ✍ |
+| Back-End Legacy Certifications(FreeCodeCamp)   | [Back-End Developer Certification](https://www.freecodecamp.org/certification/falgunislam/legacy-back-end)  📹 ✍ |
+| Data Visualization Legacy Certifications(FreeCodeCamp) | [Legacy Data Visualization Certification](https://www.freecodecamp.org/certification/falgunislam/legacy-data-visualization)  📹 ✍|
+| Information Security and Quality Assurance Certifications(FreeCodeCamp) | [Legacy Information Security and Quality Assurance Certification](https://www.freecodecamp.org/certification/falgunislam/information-security-and-quality-assuranc)  📹 ✍ |
 
 
 ## Here are some ideas to get you started:

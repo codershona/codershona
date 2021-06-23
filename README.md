@@ -13,6 +13,9 @@ I'm a self taught Full Stack Developer who is passionate about making open-sourc
 - Connect with me on [Twitter](https://twitter.com/BRupanzel)🌎
 - Read My Instagram Blogs in [Instagram](https://www.instagram.com/goldcodetech/)🌎
 
+## About Me:
+ Currently pursuing [Associate of Science](https://www.uopeople.edu/programs/cs/degrees/computer-science-associates-degree/) in Computer Science in [University of the People](https://www.uopeople.edu/) ✍
+
 ## Certification 📹 ✍🏾:
 - My freecodecamp profile <a href="https://www.freecodecamp.org/falgunislam"> FreeCodeCamp </a> 📹 ✍🏾
 - My Full Stack Legacy Certifications <a href="https://www.freecodecamp.org/certification/falgunislam/full-stack"> Full Stack Developer Certification </a> 📹 ✍🏾

@@ -26,6 +26,7 @@ I'm a self taught Full Stack Developer who is passionate about making open-sourc
 | Back-End Legacy Certifications(FreeCodeCamp)   | [Back-End Developer Certification](https://www.freecodecamp.org/certification/falgunislam/legacy-back-end)  📹 ✍ |
 | Data Visualization Legacy Certifications(FreeCodeCamp) | [Legacy Data Visualization Certification](https://www.freecodecamp.org/certification/falgunislam/legacy-data-visualization)  📹 ✍|
 | Information Security and Quality Assurance Certifications(FreeCodeCamp) | [Legacy Information Security and Quality Assurance Certification](https://www.freecodecamp.org/certification/falgunislam/information-security-and-quality-assuranc)  📹 ✍ |
+| The Hong Kong University of Science and Technology | [Full-Stack Web Development with React Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/5HSL27UQHJV6)(Coursera)  📹 ✍|
 
 
 ## Here are some ideas to get you started:

@@ -15,8 +15,9 @@ I'm a self taught Full Stack Developer who is passionate about making open-sourc
 - My Information Security and Quality Assurance Certifications <a href="https://www.freecodecamp.org/certification/falgunislam/information-security-and-quality-assurance"> Legacy Information Security and Quality Assurance Certification </a> 📹 ✍🏾
 - Tinkering with interactions on <a href="https://codepen.io/techertech"> Codepen</a> 🏓
 - Sharing updates on <a href="#"> LinkedIn </a> 💼
-- Connect with me on [Twitter](https://twitter.com/BRupanzel).
-- Read My Instagram Blogs in [Instagram](https://www.instagram.com/goldcodetech/).
+- Connect with me on [Twitter](https://twitter.com/BRupanzel)🌎
+
+- Read My Instagram Blogs in [Instagram](https://www.instagram.com/goldcodetech/)🌎
 
 Here are some ideas to get you started:
 
@@ -25,7 +26,7 @@ Here are some ideas to get you started:
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: [Instagram](https://www.instagram.com/goldcodetech/)
-- 😄 Pronouns: She/Hers
-- ⚡ Fun fact: Coding, Learning new Tech things and Cooking Foods.
+- 📫 How to reach me: [Instagram](https://www.instagram.com/goldcodetech/)💬
+- 😄 Pronouns: She/Hers 😄
+- ⚡ Fun fact: Coding, Learning new Tech things and Cooking Foods🌎
 

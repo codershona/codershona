@@ -16,13 +16,16 @@ I'm a self taught Full Stack Developer who is passionate about making open-sourc
 ## About Me:
  Currently pursuing [Associate of Science](https://www.uopeople.edu/programs/cs/degrees/computer-science-associates-degree/) in Computer Science in [University of the People](https://www.uopeople.edu/) ✍
 
-## Certification 📹 ✍🏾:
-- My freecodecamp profile <a href="https://www.freecodecamp.org/falgunislam"> FreeCodeCamp </a> 📹 ✍🏾
-- My Full Stack Legacy Certifications <a href="https://www.freecodecamp.org/certification/falgunislam/full-stack"> Full Stack Developer Certification </a> 📹 ✍🏾
-- My Front-End Legacy Certifications <a href="https://www.freecodecamp.org/certification/falgunislam/legacy-front-end"> Front-End Developer Certification </a> 📹 ✍🏾
-- My Back-End Legacy Certifications <a href="https://www.freecodecamp.org/certification/falgunislam/legacy-back-end"> Back-End Developer Certification </a> 📹 ✍🏾
-- My Data Visualization Legacy Certifications <a href="https://www.freecodecamp.org/certification/falgunislam/legacy-data-visualization"> Legacy Data Visualization Certification </a> 📹 ✍🏾
-- My Information Security and Quality Assurance Certifications <a href="https://www.freecodecamp.org/certification/falgunislam/information-security-and-quality-assurance"> Legacy Information Security and Quality Assurance Certification </a> 📹 ✍🏾
+## 🖥 Certification 📹 ✍🏾:
+
+| Institute                 | Certification         |
+| ------------------------- | --------------------- |
+| FreeCodeCamp Profile      | [FreeCodeCamp](https://www.freecodecamp.org/falgunislam)  📹 ✍|
+| Full Stack Legacy Certifications | [Full Stack Developer Certification](https://www.freecodecamp.org/certification/falgunislam/full-stack)  📹 ✍|
+| Front-End Legacy Certifications  | [Front-End Developer Certification](https://www.freecodecamp.org/certification/falgunislam/legacy-front-end)  📹 ✍ |
+| Back-End Legacy Certifications   | [Back-End Developer Certification](https://www.freecodecamp.org/certification/falgunislam/legacy-back-end)  📹 ✍ |
+| Data Visualization Legacy Certifications | [Legacy Data Visualization Certification](https://www.freecodecamp.org/certification/falgunislam/legacy-data-visualization)  📹 ✍|
+| Information Security and Quality Assurance Certifications | [Legacy Information Security and Quality Assurance Certification](https://www.freecodecamp.org/certification/falgunislam/information-security-and-quality-assuranc)  📹 ✍ |
 
 
 ## Here are some ideas to get you started:

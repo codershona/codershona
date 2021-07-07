@@ -31,7 +31,7 @@ I'm a self taught Full Stack Developer who is passionate about making open-sourc
 
 ## Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Mozilla as a Open Source Contributer as a Volunteer, Check out my [Contribution](#) in [BUGZILLA](https://bugzilla.mozilla.org/user_profile?user_id=675496) using Mercurial and Phabiracator as a version control.
+- 🔭 I’m currently working on Mozilla as a Open Source Contributer as a Volunteer, Check out my [Contribution](#) in [BUGZILLA](https://bugzilla.mozilla.org/user_profile?user_id=675496) using Mercurial and Phabricator as a version control.
 - 🌱 I’m currently learning System Design and Docker and Devops
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->

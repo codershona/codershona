@@ -3,7 +3,7 @@
 
 
 <img src="https://github.com/codershona/codershona/blob/master/me%201%20.png" width="950" height="550" alt="banner that says developer girl - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
-I'm a self taught Full Stack Developer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include Angular, ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL, Java, Java SpringBoot, Hibernate, JPA, Nodejs and Express.js. 
+I'm a self taught Full Stack Developer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include Angular, ReactJS, Vue, Jamstack (JavaScript, APIs + Markup) and GraphQL, Java, Java SpringBoot, Hibernate, JPA, Nodejs and Express.js. 
 
 
 ## Find me around the web 🌎: <img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>

@@ -10,8 +10,8 @@ I'm a self taught Full Stack Developer who is passionate about making open-sourc
 
 - Tinkering with interactions on <a href="https://codepen.io/techertech"> Codepen </a> or <a href="https://glitch.com/@devolikaa"> Glitch </a>  🏓
 - Sharing updates on <a href="#"> LinkedIn </a> 💼
-- Connect with me on [Twitter](https://twitter.com/BRupanzel)🌎
-- Read My Instagram Blogs in [Instagram](https://www.instagram.com/goldcodetech/)🌎
+<!-- - Connect with me on [Twitter](https://twitter.com/BRupanzel)🌎
+- Read My Instagram Blogs in [Instagram](https://www.instagram.com/goldcodetech/)🌎 -->
 
 ## About Me:
 Graduated in July 2022 in [Associate of Science](https://www.uopeople.edu/programs/cs/degrees/computer-science-associates-degree/) in Computer Science from [University of the People](https://www.uopeople.edu/) ✍

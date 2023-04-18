@@ -36,7 +36,7 @@ Graduated in July 2022 in [Associate of Science](https://www.uopeople.edu/progra
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: [Instagram](https://www.instagram.com/goldcodetech/) 💬
+<!-- - 📫 How to reach me: [Instagram](https://www.instagram.com/goldcodetech/) 💬 -->
 <!-- - 🌱 My Personal Site: [WebSite](https://myapp-53a0c.web.app/) -->
 - 😄 Pronouns: She/Hers 😄
 - ⚡ Fun fact: Coding, Learning new Tech things and Cooking Foods🌎

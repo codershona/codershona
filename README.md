@@ -2,12 +2,13 @@
 
 
 
-<img src="https://github.com/codershona/codershona/blob/master/me%201%20.png" width="950" height="550" alt="banner that says developer girl - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
+<img src="https://github.com/codershona/codershona/blob/master/me%201%20.png" width="650" height="350" alt="banner that says developer girl - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
 I'm a self taught Full Stack Developer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include Angular, ReactJS, Vue, Jamstack (JavaScript, APIs + Markup) and GraphQL, Java, Java SpringBoot, Hibernate, JPA, Nodejs and Express.js. 
 
 
 ## Find me around the web 🌎: <img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
 
+- <img src="https://pic.sopili.net/pub/emoji/twitter/2/72x72/1f4cb.png" width=20 height=20> My Blog: [Medium](https://medium.com/@gcodetech)
 - Tinkering with interactions on <a href="https://codepen.io/techertech"> Codepen </a> or <a href="https://glitch.com/@devolikaa"> Glitch </a>  🏓
 - Sharing updates on <a href="#"> LinkedIn </a> 💼
 <!-- - Connect with me on [Twitter](https://twitter.com/BRupanzel)🌎
@@ -38,7 +39,6 @@ Graduated in July 2022 in [Associate of Science](https://www.uopeople.edu/progra
 <!-- - 💬 Ask me about ... -->
 <!-- - 📫 How to reach me: [Instagram](https://www.instagram.com/goldcodetech/) 💬 -->
 <!-- - 🌱 My Personal Site: [WebSite](https://myapp-53a0c.web.app/) -->
-<img src="https://pic.sopili.net/pub/emoji/twitter/2/72x72/1f4cb.png" width=20 height=20> My Blog: [Medium](https://medium.com/@gcodetech)
 - 😄 Pronouns: She/Hers 😄
 - ⚡ Fun fact: Coding, Learning new Tech things and Cooking Foods🌎
 <!-- (https://bugzilla.mozilla.org/buglist.cgi?query_format=advanced&emailtype1=exact&emailassigned_to1=1&email1=falgunimst95%40gmail.com&list_id=15753367) -->

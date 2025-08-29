@@ -8,9 +8,9 @@ I'm a self taught Full Stack Developer who is passionate about making open-sourc
 
 ## Find me around the web 🌎: <img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
 
-## - <img src="https://pic.sopili.net/pub/emoji/twitter/2/72x72/1f4cb.png" width=20 height=20> My Blog: [Medium](https://medium.com/@gcodetech)
+<!-- - <img src="https://pic.sopili.net/pub/emoji/twitter/2/72x72/1f4cb.png" width=20 height=20> My Blog: [Medium](https://medium.com/@gcodetech) -->
 - Tinkering with interactions on <a href="https://codepen.io/techertech"> Codepen </a> or <a href="https://glitch.com/@devolikaa"> Glitch </a>  🏓
-## - Sharing updates on <a href="#"> LinkedIn </a> 💼
+<!--  - Sharing updates on <a href="#"> LinkedIn </a> 💼 -->
 <!-- - Connect with me on [Twitter](https://twitter.com/BRupanzel)🌎
 - Read My Instagram Blogs in [Instagram](https://www.instagram.com/goldcodetech/)🌎 -->
 
